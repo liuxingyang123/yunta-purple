@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="[config[seo_title]]" />
+    <meta name="keywords" content="高效云计算" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[config[seo_title]]</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="http://phpwind.com.cn/favicon.ico" type="image/x-icon">
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/bootstrap.min.css">
+    <!-- fontawesome icon  -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/fontawesome.min.css">
+    <!-- flaticon css -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/fonts/flaticon.css">
+    <!-- animate.css -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/animate.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/owl.carousel.min.css">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/magnific-popup.css">
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/style.css">
+    <!-- responsive -->
+    <link rel="stylesheet" href="[templatePath]/xiaomai/css/responsive.css">
+
+</head>
+
+<body> 
+	
+
+
+    <!-- preloader begin-->
+    <div class="preloader">
+        <div class="loader">
+            <hr><hr>
+        </div>
+    </div>
+    <!-- preloader end -->
+
+
+    <!-- header begin-->
+    <div class="header">
+        <div class="container">
+            <div class="row justify-content-between d-flex">
+                <div class="col-xl-2 col-lg-2 d-xl-flex d-lg-flex d-block align-items-center mobile-header">
+                    <div class="row d-flex">
+                        <div class="col-xl-12 col-lg-12 col-6 d-flex align-items-center">
+                            <div class="logo">
+                                <a style="color: #FFFFFF; font-weight: bold;font-size: 24px;">[config[seo_title]]</a>
+                            </div>
+                        </div>
+                        <div class="col-xl-12 col-6 d-xl-none d-lg-none d-block">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-8 col-lg-8 min-height-none">
+                    <div class="main-menu">
+                        <nav class="navbar navbar-expand-lg">
+                            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                                <ul class="navbar-nav nav justify-content-center">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" href="#">首页 <span class="sr-only">(current)</span></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/index.php?p=Cart&a=Index" >购买产品</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/help.html">公告中心</a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-lg-2 d-xl-flex d-lg-flex d-none align-items-center">
+                    <div class="login">
+                        <a href="/index.php?p=Clientarea" >登录</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- header end -->
+
+
+    <!-- banner begin-->
+    <div class="banner">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-8 col-lg-8">
+                    <div class="banner-content">
+                        <h1>[config[seo_title]]</h1>
+                        <p>高可用性中立云计算产品</p><br>
+
+                        <a href="/index.php?p=Cart&a=Index">购买产品</a>
+                        <!--<a  href="javascript:myFunction();">-->
+                        	<a href="/index.php?p=Clientarea&a=Index">用户中心</a>
+                        <!--<script>
+								function myFunction(){
+									alert("抱歉~请耐心等待！");
+								}
+						</script>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- banner end -->
+
+    <!-- info feature begin-->
+    <div class="info-feature">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="info-single-feature">
+                        <div class="part-icon">
+                            <i class="flaticon-group"></i>
+                        </div>
+                        <div class="part-text">
+                            
+                            <h3>CLOUD</h3>
+                            <p>云计算是弱化传统IT硬件概念的计算资源服务。可依据业务需求按需按量使用计算资源以满足当前的业务需求，并具有可在业务高速发展的同时随时扩展所需的计算资源的能力。</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="info-single-feature">
+                        <div class="part-icon">
+                            <i class="flaticon-money"></i>
+                        </div>
+                        <div class="part-text">
+                         
+                            <h3>CLOUD</h3>
+                            <p>云计算产品通过底层先进成熟的容灾冗余架构使得产品本身具备高可用、数据可靠、高性能、弹性的特性，可大幅降低前期业务部署以及后续运维的成本投入。<br></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="info-single-feature">
+                        <div class="part-icon">
+                            <i class="flaticon-hand"></i>
+                        </div>
+                        <div class="part-text">
+                          
+                            <h3>CLOUD</h3>
+                            <p>具备高在线率、高安全性、高稳定性等多项优势，提供独立IP，特别适用于对网站运行质量有较高要求的用户。<br><br><br></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- info feature end -->
+
+    <!-- litehyip features begin-->
+    <div class="litehyip-features">
+        <div class="bg-img">
+            <img src="[templatePath]/xiaomai/img/litehyip-feature-bg.png" alt="">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-8">
+                    <div class="section-title">
+                        <h2>[config[seo_title]]<span>[config[seo_title]]</span> [config[seo_title]]</h2>
+                        <p>我们可以为您定制解决方案</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="single-feature">
+                        <div class="part-icon">
+                            <i class="flaticon-brain"></i>
+                        </div>
+                        <div class="part-text">
+                            <h3>新零售</h3>
+                            <p>通过云计算、大数据、人工智能等技术，将零售场景中要素进行整合，达到精准营销，高效运营</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="single-feature">
+                        <div class="part-icon">
+                            <i class="flaticon-patent"></i>
+                        </div>
+                        <div class="part-text">
+                            <h3>智慧社区</h3>
+                            <p>基于物联网技术的智慧社区解决方案可赋予社区更多的安全性、舒适性、便利性</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="single-feature">
+                        <div class="part-icon">
+                            <i class="flaticon-donation"></i>
+                        </div>
+                        <div class="part-text">
+                            <h3>智慧校园</h3>
+                            <p>智慧校园是一套兼具软硬一体化、功能模块化、数据一体化、高度智能化的识别解决方案</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- litehyip features end -->
+
+    <!-- we thinking global begin-->
+    <div class="we-thinking-global">
+        <div class="container">
+            <div class="row justify-content-around d-flex">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="part-img">
+                        <img src="[templatePath]/xiaomai/img/we-thinking-bg.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 d-flex align-items-center">
+                    <div class="part-text">
+                        <h2>来[config[seo_title]]轻松构建网站<br>
+                        <span>免费技术服务</span></h2>
+                        
+                        <a href="/index.php?p=Cart&a=Index">立即购买</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- we thinking global end -->
+
+    <!-- inventor begin-->
+    <div class="inventor">
+        <div class="bg-img">
+            <img src="[templatePath]/xiaomai/img/ventor-bg.png" alt="">
+        </div>
+        <div class="container">
+            <div class="row d-flex">
+                <div class="col-xl-5 col-lg-6 d-flex align-items-center">
+                    <div class="part-text">
+                        <h2>灵活<span>智能</span> </h2>
+                        <p>灵活多样的计费方式，为客户最大程度的节省IT运营成本，提高资源的有效利用率。</p>
+                    </div>
+                </div>
+                <div class="col-xl-5 col-lg-5 offset-xl-1">
+                    <div class="part-inventor">
+                        <div class="single-inventor">
+                            <img src="[templatePath]/xiaomai/img/inventor-1.png" alt="">
+                        </div>
+                        <div class="single-inventor">
+                            <img src="[templatePath]/xiaomai/img/inventor-2.png" alt="">
+                        </div>
+                        <div class="single-inventor">
+                            <img src="[templatePath]/xiaomai/img/inventor-3.png" alt="">
+                        </div>
+                        <div class="single-inventor">
+                            <img src="[templatePath]/xiaomai/img/inventor-4.png" alt="">
+                        </div>
+                        <div class="single-inventor">
+                            <img src="[templatePath]/xiaomai/img/inventor-5.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- inventor end -->
+
+    <!-- testimonial begin-->
+    <div class="testimonial">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-title text-center">
+                        <h2>智慧<span>智能</span></h2>
+                        <p>网站云为企业及开发者提供灵活弹性自动化的基础IT设施建设、按需付费的服务模式及成本的运维服务体系，帮助客户转型，推动企业核心业务创新发展。</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-12 col-lg-12">
+                    <div class="testimonial-slider">
+
+                        <div class="single-testimonial">
+                            <div class="d-flex">
+                                <div class="part-img">
+                                    <img src="[templatePath]/xiaomai/img/testimonial-1.png" alt="">
+                                </div>
+                                <div class="part-info">
+                                    <h3>电商云</h3>
+                                    <h4>解决方案</h4>
+                                </div>
+                            </div>
+                            <div class="part-text">
+                                <p>电商云帮助电商客户快速实现平台搭建、节约成本、应对业务高并发、强化安全防护能力，助力电商客户快速实现金融创新及业务增收的目标。</p>
+                            </div>
+                        </div>
+
+                        <div class="single-testimonial">
+                            <div class="d-flex">
+                                <div class="part-img">
+                                    <img src="[templatePath]/xiaomai/img/testimonial-1.png" alt="">
+                                </div>
+                                <div class="part-info">
+                                    <h3>弹性云计算</h3>
+                                    <h4>基础与拓展</h4>
+                                </div>
+                            </div>
+                            <div class="part-text">
+                                <p>当网站用户在面对云服务器配置选型的问题时，针对网站用户个性的配置选择需求、同时可临时资源扩展的诉求，支持产品随时随地秒级扩展IT资源，轻松解决配置选型问题，高效便捷，节约成本。</p>
+                            </div>
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- testimonial end -->
+
+    <!-- newsletter begin-->
+    <div class="newsletter">
+        <div class="bg-img">
+            <img src="[templatePath]/xiaomai/img/newsletter-bg.png" alt="">
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-title text-center">
+                        <h2>[config[seo_title]]<span> 云</span></h2>
+                        <p>推动全民体验云上生活</p>
+                    </div>
+                </div>
+            </div>
+           
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- newsletter end -->
+
+    <!-- footer begin-->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-5 col-lg-5 col-md-6">
+                    <div class="about-area">
+                        <a style="color: #FFFFFF; font-weight: bold;">[config[seo_title]]</a>
+                        <p>[config[seo_title]]云计算产品</p>
+                    </div>
+                    <!--<div class="social">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>-->
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-6">
+                    <div class="links">
+                        <h3>相关链接</h3>
+                        <ul>
+                            <li>
+                                <a href="#" target="_blank">证照中心</a>
+                            </li>
+                            <li>
+                                <a href="#"  target="_blank">虚位以待</a>
+                            </li>
+                            
+            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-6">
+                    <div class="links">
+                        <h3>关于</h3>
+                        <ul>
+                            
+                            <li>
+                                <a href="https://xinyong.yunaq.com" target="_blank"><img src="https://aqyzmedia.yunaq.com/labels/label_sm_90010.png"></a>
+                            </li>
+                            <li>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="address">
+                        <h3>联系</h3>
+                        <ul>
+                            <li>
+                                地址：#<br>
+                                #
+
+                            </li>
+                            <li>
+                            
+                           
+                      
+                            <li>
+                                QQ:
+                            </li>
+                            <li>
+                                电话：
+                            </li>
+
+
+                            </ul>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 text-center">
+                    <div class="copyright">
+                        <p>Copyright &copy; 2020-2021. X All rights reserved. </p><a style="color: white" href="http://beian.miit.gov.cn">黑ICP备00000000号</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer end -->
+
+
+    <!-- jquery -->
+    <script src="[templatePath]/xiaomai/js/jquery.js"></script>
+	<!-- bootstrap -->
+    <script src="[templatePath]/xiaomai/js/bootstrap.min.js"></script>
+    <!-- owl carousel -->
+    <script src="[templatePath]/xiaomai/js/owl.carousel.js"></script>
+    <!-- magnific popup -->
+    <script src="[templatePath]/xiaomai/js/jquery.magnific-popup.js"></script>
+    <!-- way poin js-->
+    <script src="[templatePath]/xiaomai/js/waypoints.min.js"></script>
+    <!-- wow js-->
+    <script src="[templatePath]/xiaomai/js/wow.min.js"></script>
+    <!-- main -->
+    <script src="[templatePath]/xiaomai/js/main.js"></script>
+</body>
+
+</html>
+
